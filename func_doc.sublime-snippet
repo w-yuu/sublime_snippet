@@ -1,0 +1,16 @@
+
+<snippet>
+	<content>
+		<![CDATA[
+%%%-------------------------------------------------------------------
+%%% @doc
+%%%${1:ドキュメント内容}
+%%% @end
+%%%-------------------------------------------------------------------
+${0}
+]]>
+		</content>
+		<tabTrigger>@func_doc</tabTrigger>
+		<scope>source.erlang</scope>
+		<description>関数の説明</description>
+	</snippet>

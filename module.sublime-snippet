@@ -1,0 +1,14 @@
+
+<snippet>
+	<content>
+		<![CDATA[
+-module(${1:モジュール名}).
+-export([${2:公開設定}]).
+
+${0}
+]]>
+		</content>
+		<tabTrigger>@module</tabTrigger>
+		<scope>source.erlang</scope>
+		<description>モジュールの生成</description>
+	</snippet>

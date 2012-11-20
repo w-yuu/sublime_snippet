@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+		<![CDATA[
+%%%===================================================================
+%%% ${1:説明文}
+%%%===================================================================
+${0}
+]]>
+		</content>
+		<tabTrigger>@%%%</tabTrigger>
+		<scope>source.erlang</scope>
+		<description>見出しコメント</description>
+	</snippet>
